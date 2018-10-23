@@ -17,6 +17,7 @@ Installer
 Taper [`create react app`](https://github.com/facebook/create-react-app) dans Google :)
 
 ```
-cd <mon super dossier>
+git clone git@github.com:clemos/workshop-react-leboncoin.git
+cd workshop-react-leboncoin
 yarn create react-app .
 ```
