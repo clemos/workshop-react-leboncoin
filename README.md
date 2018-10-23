@@ -1,4 +1,4 @@
-# Initiation à React - SilexLabs & leboncoin
+# Initiation à React chez leboncoin avec SilexLabs
 
 ![Initiation à React chez leboncoin avec SilexLabs](https://secure.meetupstatic.com/photos/event/7/1/0/9/highres_474928937.jpeg)
 
@@ -8,9 +8,15 @@ https://docs.google.com/presentation/d/1Th1fLcs4kBFLNqCKaBRZuzp9ARYukSOakONhSrg-
 ## D'abord...
 
 Installer
-* [NodeJS](https://nodejs.org)
-* [Yarn](https://yarnpkg.com) (si possible)
+* [NVM](https://github.com/creationix/nvm#installation)
+* [NodeJS](https://nodejs.org) `nvm install 9.10.0`/`nvm use 9.10.0`
+* [Yarn](https://yarnpkg.com) (si possible) 0.25+
 
 ## Puis
 
 Taper [`create react app`](https://github.com/facebook/create-react-app) dans Google :)
+
+```
+cd <mon super dossier>
+yarn create react-app .
+```
