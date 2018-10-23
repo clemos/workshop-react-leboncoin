@@ -21,3 +21,11 @@ git clone git@github.com:clemos/workshop-react-leboncoin.git
 cd workshop-react-leboncoin
 yarn create react-app .
 ```
+
+## J'ai une app React !
+
+Je lance mon app
+```
+yarn start
+```
+[Need help ?](./README.create-react-app.md)
