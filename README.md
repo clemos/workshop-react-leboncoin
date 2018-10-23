@@ -12,6 +12,9 @@ Installer
 * [NodeJS](https://nodejs.org) `nvm install 9.10.0`/`nvm use 9.10.0`
 * [Yarn](https://yarnpkg.com) (si possible) 0.25+
 
+### Un éditeur de code:
+Pourquoi pas [Visual Studio Code](https://code.visualstudio.com/)
+
 ## Puis
 
 Taper [`create react app`](https://github.com/facebook/create-react-app) dans Google :)
